@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "newrelic",
+    "slug": "newrelic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
